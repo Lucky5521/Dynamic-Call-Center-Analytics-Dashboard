@@ -1,1 +1,52 @@
 # Dynamic-Call-Center-Analytics-Dashboard
+
+Project Name: Dynamic Call Center Analytics Dashboard
+
+Project Overview:
+Developed a comprehensive Power BI dashboard to enhance call center management and decision-making processes. The project involved creating multiple dashboards, 
+with a primary focus on the Home dashboard, which serves as the central hub for monitoring key performance indicators (KPIs) and visualizing call center data.
+
+Problem Statement:
+The call center faced challenges in tracking and analyzing key metrics essential for performance evaluation and resource optimization. The need for real-time insights into call volume, duration,
+response times, and reasons for calls prompted the development of a dynamic Power BI dashboard.
+
+Dashboard Components:
+Home Dashboard:
+Data Tutorial: A guided tutorial section providing insights into the data and its significance.
+KPIs Requirement:
+Total Number of Calls
+Total Call Duration in Hours
+Total Call Duration in Minutes
+Average Call Duration in Minutes
+Response Time Percentage
+
+Charts Requirement:
+Total Call by Day (Column Chart)
+Total Calls by State (Filled Map Chart)
+Top Reason for Calls (Tree Map)
+Total Calls by Channel (Donut Chart)
+Total Calls by Sentiment (Column Chart)
+Total Calls by Call Centre (Bar Chart)
+
+Functionalities Learned:
+
+Text Function                Data Cleaning
+Filter Function              Data Modeling
+Calculate                    Data Processing
+SUM/SUMX                     Power Query
+Creating KPIs                Date Tables
+New Card Visual              Time Intelligence Functions
+Creating Charts              DAX (Data Analysis Expressions)
+Formatting Visuals           Date Function
+Creating Functions           Custom Charts
+Navigations
+
+Technologies Used:
+Power BI
+MS Office/Excel
+
+Outcome:
+A highly functional and visually appealing Power BI dashboard that revolutionized the way the call center analyzes and utilizes its data for strategic decision-making.
+
+Key Learnings:
+Acquired expertise in SQL Server connectivity, data cleaning, modeling, DAX, and advanced chart creation within Power BI, contributing to enhanced data-driven decision-making capabilities.
